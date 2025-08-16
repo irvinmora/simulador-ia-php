@@ -1,6 +1,14 @@
 # Simulador IA PHP
 
-Proyecto MVC simple con front-controller (index.php) para responder documentos y generar simuladores de preguntas usando múltiples proveedores LLM (OpenAI, Gemini, Claude, Ollama local).
+Proyecto final de aula para la materia Nuevas Tecnologías. Se trata de un proyecto MVC simple con front-controller (index.php) que permite procesar documentos y generar simuladores de preguntas utilizando múltiples proveedores de LLM como OpenAI, Gemini, Claude y Ollama local. Este proyecto fue realizado por:
+
+Mora Julio
+
+Mora Irving
+
+Herrera Wilson
+
+Suarez Xiomara
 
 ## Requisitos
 - PHP >= 8.1 con extensiones curl, mbstring, xml, zip
