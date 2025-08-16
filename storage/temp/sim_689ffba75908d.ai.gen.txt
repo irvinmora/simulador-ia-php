@@ -1,0 +1,12 @@
+```json
+{
+  "opciones": [
+    "Había estado trabajando en un proyecto importante.",
+    "Había estado leyendo un libro interesante.",
+    "Había estado jugando videojuegos.",
+    "Había estado cocinando la cena.",
+    "Había estado esperando un autobús."
+  ],
+  "correcta": 0
+}
+```

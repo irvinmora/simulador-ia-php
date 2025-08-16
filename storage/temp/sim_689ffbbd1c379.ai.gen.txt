@@ -1,0 +1,12 @@
+```json
+{
+  "opciones": [
+    "Classical music because it helps me focus.",
+    "Lo-fi hip hop because it's relaxing.",
+    "I don't listen to music while studying.",
+    "It depends on my mood and what I'm studying.",
+    "I prefer silence while studying."
+  ],
+  "correcta": 0
+}
+```

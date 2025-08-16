@@ -1,0 +1,60 @@
+{
+    "id": "job_689fdfef074b4",
+    "secret": "65cea847d9b6ff8a",
+    "ext": "txt",
+    "source": "job_689fdfef074b4.txt",
+    "original_name": "Solo preguntas.txt",
+    "modelo": "gemini-flash",
+    "mode": "minimal",
+    "auto": true,
+    "formato": "PREG_SOLAS",
+    "bloques": [
+        "¿Qué tipo de licencia tiene Odoo?",
+        "¿Cuál de los siguientes módulos de Odoo está orientado a la gestión financiera y contable de la empresa?",
+        "¿Qué significa que Odoo sea un \"ERP modular\"?",
+        "¿Cuál de las siguientes características hace que Odoo sea muy atractivo para las pequeñas y medianas empresas?",
+        "¿Qué lenguaje está desarrollado Odoo?",
+        "¿Cuál es la función principal del módulo de compras en Odoo?",
+        "¿Qué tipo de empresa es más adecuada para usar Odoo?",
+        "¿Cuál de los siguientes principios de seguridad garantiza que la información solo sea accesible por personas autorizadas?",
+        "¿Qué tipo de riesgo interno en sistemas empresariales se produce por errores humanos o mala configuración?"
+    ],
+    "total": 9,
+    "processed": 8,
+    "respuestas": [
+        {
+            "entrada": "¿Qué tipo de licencia tiene Odoo?",
+            "resultado": "[Error Gemini 429]"
+        },
+        {
+            "entrada": "¿Cuál de los siguientes módulos de Odoo está orientado a la gestión financiera y contable de la empresa?",
+            "resultado": "[Error Gemini 429]"
+        },
+        {
+            "entrada": "¿Qué significa que Odoo sea un \"ERP modular\"?",
+            "resultado": "[Error Gemini 429]"
+        },
+        {
+            "entrada": "¿Cuál de las siguientes características hace que Odoo sea muy atractivo para las pequeñas y medianas empresas?",
+            "resultado": "```json\n{\n  \"pregunta\": \"¿Cuál de las siguientes características hace que Odoo sea muy atractivo para las pequeñas y medianas empresas?\",\n  \"respuesta\": \"Odoo es atractivo para las PYMES por su naturaleza modular y escalable, permitiendo la implementación gradual de funcionalidades según las necesidades de la empresa.  Su costo relativamente bajo en comparación con sistemas ERP tradicionales, su facilidad de uso e integración de múltiples áreas de gestión (CRM, ventas, contabilidad, inventario, etc.) en una sola plataforma, y su disponibilidad en la nube (Saas) o en local, son factores clave de su atractivo.\"\n}\n```\n"
+        },
+        {
+            "entrada": "¿Qué lenguaje está desarrollado Odoo?",
+            "resultado": "[Error Gemini 429]"
+        },
+        {
+            "entrada": "¿Cuál es la función principal del módulo de compras en Odoo?",
+            "resultado": "[Error Gemini 429]"
+        },
+        {
+            "entrada": "¿Qué tipo de empresa es más adecuada para usar Odoo?",
+            "resultado": "[Error Gemini 429]"
+        },
+        {
+            "entrada": "¿Cuál de los siguientes principios de seguridad garantiza que la información solo sea accesible por personas autorizadas?",
+            "resultado": "[Error Gemini 429]"
+        }
+    ],
+    "status": "cancelled",
+    "output": null
+}

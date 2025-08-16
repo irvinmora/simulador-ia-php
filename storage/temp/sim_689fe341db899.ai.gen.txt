@@ -1,0 +1,46 @@
+{
+  "opciones": [
+    "I prefer classical music for studying as it helps me concentrate better.",
+    "Lo-fi music is my go-to for studying because it's relaxing and not distracting.",
+    "I alternate between classical and lo-fi depending on my mood and the subject.",
+    "I actually prefer ambient nature sounds over music when studying.",
+    "I don't listen to music while studying as I find it distracting."
+  ],
+  "correcta": 2
+}{
+  "opciones": [
+    "Have you visited any places outside of Ecuador?",
+    "Have you met anyone famous in your life?",
+    "Have you tried any exotic foods lately?",
+    "Have you been working on any personal projects?",
+    "How long have you been studying English?"
+  ],
+  "correcta": 4
+}{
+  "opciones": [
+    "Classical music for studying, pop for parties, rock band concert, jazz club for live music, slow music at night",
+    "Lo-fi for studying, reggaeton for parties, solo pop singer concert, outdoor festival for live music, slow music in the morning",
+    "Lo-fi for studying, reggaeton for parties, rock band concert, outdoor festival for live music, slow music at night",
+    "Classical music for studying, pop for parties, solo pop singer concert, jazz club for live music, slow music in the morning",
+    "Lo-fi for studying, pop for parties, rock band concert, jazz club for live music, slow music at night"
+  ],
+  "correcta": 2
+}{
+  "opciones": [
+    "I had been watching a movie on my laptop",
+    "I had been cooking dinner in the kitchen",
+    "I had been reading a book in bed",
+    "I had been exercising at the gym",
+    "I had been working on my computer"
+  ],
+  "correcta": 0
+}{
+  "opciones": [
+    "I had cleaned the house and prepared some snacks",
+    "I had gone grocery shopping and decorated the living room",
+    "I had taken a nap and ordered takeout food",
+    "I had mowed the lawn and washed the car",
+    "I had baked a cake and wrapped some gifts"
+  ],
+  "correcta": 0
+}

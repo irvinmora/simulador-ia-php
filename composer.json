@@ -1,0 +1,14 @@
+{
+  "name": "simul/proyecto-ia",
+  "description": "Simulador y procesador de preguntas con IA",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "smalot/pdfparser": "^2.7",
+    "phpoffice/phpword": "^1.1",
+    "phpoffice/phpspreadsheet": "2.3"
+  },
+  "autoload": {
+    "classmap": ["app/models"]
+  }
+}
