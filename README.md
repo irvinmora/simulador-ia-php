@@ -1,10 +1,10 @@
 # Simulador IA PHP
 
-Proyecto final de aula para la materia Nuevas Tecnologías, de la carrera Ingenieria En Sistemas De Informacion, de la Universidad Tecnica de Babahoyo. Se trata de un proyecto MVC simple con front-controller (index.php) que permite procesar documentos y generar simuladores de preguntas utilizando múltiples proveedores de LLM como OpenAI, Gemini, Claude y Ollama local. Este proyecto fue realizado por:
+Proyecto final de aula para la materia Nuevas Tecnologías De 8"Vo"Semestre, de la carrera Ingenieria En Sistemas De Informacion, de la Universidad Tecnica de Babahoyo. Se trata de un proyecto MVC simple con front-controller (index.php) que permite procesar documentos y generar simuladores de preguntas utilizando múltiples proveedores de LLM como OpenAI, Gemini, Claude y Ollama local. Este proyecto fue realizado por:
 
 Mora Julio
 
-Mora Irving
+Mora Irvin
 
 Herrera Wilson
 
